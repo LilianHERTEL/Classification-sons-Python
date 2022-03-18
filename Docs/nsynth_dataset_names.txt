@@ -1,0 +1,3 @@
+nsynth-test.jsonwav.tar.gz
+nsynth-train.jsonwav.tar.gz
+nsynth-valid.jsonwav.tar.gz
